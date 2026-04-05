@@ -155,8 +155,8 @@ Actual Spam 58    171
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Aryankr0711/Text_classification-.git
-cd Text_classification-
+git clone https://github.com/siddsahu17/MDM_Project-Siddhant-Sahu.git
+cd MDM_Project-Siddhant-Sahu
 ```
 
 ### 2. Install Dependencies
@@ -166,12 +166,12 @@ pip install -r requirements.txt
 
 ### 3. Run the Jupyter Notebook
 ```bash
-jupyter notebook Aryan_MDM_NLP.ipynb
+jupyter notebook 202301070159-Siddhant.ipynb
 ```
 
 Or use Jupyter Lab:
 ```bash
-jupyter lab Aryan_MDM_NLP.ipynb
+jupyter lab 202301070159-Siddhant.ipynb
 ```
 
 ### 4. Execute All Cells
@@ -222,7 +222,7 @@ Text_classification-/
 
 ## Author
 
-**Aryan Kumar** & **Siddhant Sahu**
+**Siddhant Sahu**
 
 ---
 
@@ -244,5 +244,5 @@ This dataset and project are available for educational and research purposes. Pl
 
 ## Contact & Support
 
-For questions or suggestions about this project, please open an issue or contact the project authors (Aryan Kumar & Siddhant Sahu).
+For questions or suggestions about this project, please open an issue or contact the project authors (Siddhant Sahu).
 
