@@ -201,7 +201,7 @@ jupyter lab 202301070159-Siddhant.ipynb
 
 ```
 Text_classification-/
-├── Aryan_MDM_NLP.ipynb          # Main Jupyter notebook with complete pipeline
+├── 202301070159-Siddhant.ipynb          # Main Jupyter notebook with complete pipeline
 ├── spam.csv                      # Dataset file (5,572 SMS messages)
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
